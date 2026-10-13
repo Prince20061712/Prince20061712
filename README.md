@@ -75,6 +75,12 @@
   <img src="https://streak-stats.demolab.com/?user=Prince20061712&theme=github-dark-blue&hide_border=true" />
 </p>
 
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince20061712&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub achievement trophies for Prince20061712" />
+</p>
+
 ---
 
 <p align="center">
