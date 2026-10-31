@@ -64,19 +64,7 @@
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Prince20061712&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prince20061712&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prince20061712&theme=github-dark-blue&hide_border=true" />
-</p>
-
-
----
 
 <p align="center">
   <i>Building reliable software with clean code and thoughtful design.</i>
