@@ -80,8 +80,4 @@
 
 <p align="center">
   <i>Building reliable software with clean code and thoughtful design.</i>
-
-
-<p align="center">
-  <i>Building reliable software with clean code and thoughtful design.</i>
 </p>
